@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PulsView">
+        <attr name="viewFrom" format="reference"/>
+        <attr name="viewTo" format="reference"/>
+
+        <attr name="isMirrored" format="boolean"/>
+        <attr name="bypass" format="dimension|reference"/>
+        <attr name="corners" format="dimension|reference"/>
+        <attr name="lineColor" format="color|reference"/>
+        <attr name="lineWidth" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
