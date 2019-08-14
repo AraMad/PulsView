@@ -27,5 +27,5 @@ Simple puls line view for Android
     />
 ```
 ## Based on
-[StackOverflow Line from one View pointing to another View](https://stackoverflow.com/a/51762501/10364102)
+[StackOverflow Line from one View pointing to another View](https://stackoverflow.com/a/51762501/10364102),
 [Medium Playing with Paths](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
